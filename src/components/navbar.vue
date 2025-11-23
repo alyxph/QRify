@@ -11,7 +11,7 @@
           </svg>
           <div class="text-center">
             <div class="text-lg font-bold text-slate-800">QRify</div>
-            <div class="text-xs text-slate-500 -mt-0.5">Simple QR generator</div>
+            <div class="text-xs text-slate-500 -mt-0.5">Free QR generator</div>
           </div>
         </a>
       </div>
